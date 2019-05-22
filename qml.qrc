@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>quarre-api/Client.qml</file>
+        <file>quarre-api/ClientManager.qml</file>
+        <file>quarre-api/Interaction.qml</file>
+        <file>quarre-api/NetworkManager.qml</file>
+        <file>quarre-api/QuMapping.qml</file>
+    </qresource>
+</RCC>
